@@ -11,4 +11,4 @@ All images courtesy of Unsplash (https://unsplash.com).
 # Video Credits
 
 Video courtesy of Coverr (http://coverr.co).
-He añadido otra linea en otra copia
+He resuelto este conflicto generado al escribir una linea cada usuario
